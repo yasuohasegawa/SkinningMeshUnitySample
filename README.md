@@ -1,4 +1,4 @@
-# UnitySkinningMeshSample
+# SkinningMeshUnitySample
 Unity version of Skinning Mesh sample.
 
 This sample code is based from webgl and c++ example code from the links below.
